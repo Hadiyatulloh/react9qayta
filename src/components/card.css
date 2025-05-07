@@ -1,0 +1,38 @@
+.cardli {
+    width: 536px;
+    padding: 10px;
+    border-radius: 20px;
+    background: #F6F6F6;
+    box-shadow: 4px 4px 10px 4px #00000040;
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    margin: 20px;
+}
+
+.ota {
+    padding: 40px;
+}
+
+.ota h1 {
+    margin-left: 50px;
+    font-size: 50px;
+    margin-top: -20px;
+}
+
+.cardli p {
+    color: #8E8080;
+}
+
+.cardli img {
+    background: #FDE9CB;
+    border-radius: 100px;
+    padding: 7px;
+}
+
+.box {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
